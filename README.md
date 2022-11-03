@@ -1,2 +1,2 @@
 # Project
-Git Training
+Day 1 : Git Training Session
